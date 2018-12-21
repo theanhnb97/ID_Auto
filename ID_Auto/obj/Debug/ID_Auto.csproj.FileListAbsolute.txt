@@ -1,0 +1,6 @@
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\bin\Debug\ID_Auto.exe.config
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\bin\Debug\ID_Auto.exe
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\bin\Debug\ID_Auto.pdb
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\obj\Debug\ID_Auto.csprojResolveAssemblyReference.cache
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\obj\Debug\ID_Auto.exe
+E:\Workspace\1---- Source Code\ID_Auto\ID_Auto\obj\Debug\ID_Auto.pdb
